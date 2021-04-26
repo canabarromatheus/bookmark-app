@@ -39,7 +39,8 @@
         app:layout_constraintEnd_toStartOf="@+id/editTextEmailSignUp"
         app:layout_constraintHorizontal_bias="0.562"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.39" />
 
     <TextView
         android:id="@+id/textView5"
@@ -111,5 +112,5 @@
         app:layout_constraintHorizontal_bias="0.864"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextPasswordConfirmationSignUp"
-        app:layout_constraintVertical_bias="0.425" />
+        app:layout_constraintVertical_bias="0.43" />
 </androidx.constraintlayout.widget.ConstraintLayout>
