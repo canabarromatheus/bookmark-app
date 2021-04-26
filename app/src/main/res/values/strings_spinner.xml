@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genders_array">
+        <item>Gêneros</item>
+        <item>Aventura</item>
+        <item>Romance</item>
+        <item>Ficção científica</item>
+        <item>Drama</item>
+        <item>Biografia</item>
+        <item>HQ/Mangá</item>
+        <item>Terror</item>
+        <item>Suspense</item>
+        <item>Acadêmico</item>
+        <item>Adulto</item>
+        <item>Investigativo</item>
+        <item>Policial</item>
+        <item>Didático</item>
+        <item>Comédia</item>
+    </string-array>
+</resources>
